@@ -1,1 +1,1 @@
-# zuri-task-js-1
+# Zuri Task JS 1
